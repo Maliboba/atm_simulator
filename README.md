@@ -30,3 +30,18 @@ The simulator includes the following functionalities:
 3. Navigate to the directory where you saved the file.
 
 4. Run the script using the following command:
+
+5. Follow the on-screen prompts to interact with the ATM.
+
+## 📋 Requirements
+
+This program requires Python 3.x. No external libraries are needed beyond the standard `datetime` module.
+
+## Preview of App
+![Python Logo](<img width="1250" height="618" alt="image" src="https://github.com/user-attachments/assets/49feccb2-8e4e-4fde-8352-aa8fa57ca768" />
+)
+
+## ✍️ Author
+
+* **Claudia Agyeere** - Student at MEST
+
