@@ -38,10 +38,11 @@ The simulator includes the following functionalities:
 This program requires Python 3.x. No external libraries are needed beyond the standard `datetime` module.
 
 ## Preview of App
-![Python Logo](<img width="1250" height="618" alt="image" src="https://github.com/user-attachments/assets/49feccb2-8e4e-4fde-8352-aa8fa57ca768" />
-)
+<img width="1250" height="618" alt="image" src="https://github.com/user-attachments/assets/57399717-9126-425b-9769-3ed730548c56" />
+
 
 ## ✍️ Author
 
 * **Claudia Agyeere** - Student at MEST
+
 
